@@ -1,7 +1,7 @@
 # Portfolio
 Personal Professional Portfolio Project for MITxPro Full Stack Dev program
 
-<img src="./bioPic1.png" width=150>
+<img src="./bioPic1.jpg" width=150>
 
 ## Run Instructions
 
