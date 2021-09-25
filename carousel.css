@@ -26,6 +26,10 @@ object {
   padding-top: 40px;
 }
 
+h3 {
+  padding: 30px;
+}
+
 p {
   padding-left: 30px;
 }
