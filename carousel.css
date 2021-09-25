@@ -51,6 +51,9 @@ p {
   padding-right: 30px;
 }
 
+#bioPic {
+  padding-left: 50px;
+
 .bioGrid {
   display: grid;
   grid-template-columns: 1fr 1fr;
