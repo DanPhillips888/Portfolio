@@ -53,6 +53,7 @@ p {
 
 #bioPic {
   padding-left: 50px;
+  padding-top: 30px;
 
 .bioGrid {
   display: grid;
